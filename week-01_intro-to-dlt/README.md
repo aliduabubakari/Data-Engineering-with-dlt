@@ -26,7 +26,7 @@ It takes care of:
 
 > ✅ `dlt` is easy to use, flexible, and production-ready — it works locally or in orchestration tools like Airflow, serverless functions, and cloud platforms.
 
-Official docs: [https://docs.dlt.dev](https://docs.dlt.dev)
+Official docs: [https://dlthub.com](https://dlthub.com)
 
 ---
 
