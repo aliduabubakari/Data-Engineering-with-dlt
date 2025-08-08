@@ -15,7 +15,7 @@ Whether you're new to data engineering or looking to streamline your pipeline de
 
 ### 📅 Weekly Learning Series
 
-Each week, I explore a new feature or use case, share my learnings, and post a tutorial or project here. You can also follow along on [LinkedIn](https://www.linkedin.com/in/mahadi-nagassou-850a87254/)) for bite-sized updates and context.
+Each week, I explore a new feature or use case, share my learnings, and post a tutorial or project here. You can also follow along on [LinkedIn](https://www.linkedin.com/in/mahadi-nagassou-850a87254/) for bite-sized updates and context.
 
 ### 📁 Structure
 
