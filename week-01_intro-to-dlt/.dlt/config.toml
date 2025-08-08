@@ -1,0 +1,4 @@
+[default]
+pipeline_name = "rest_api_pokemon"
+dataset_name = "rest_api_data"
+destination = "duckdb"
