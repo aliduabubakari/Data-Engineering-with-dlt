@@ -1,0 +1,25 @@
+# Python / venv
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Env & secrets
+.env
+.env.*
+
+# Data/artifacts (adjust to your repo)
+*.db
+*.duckdb
+data/
+.dlt/
