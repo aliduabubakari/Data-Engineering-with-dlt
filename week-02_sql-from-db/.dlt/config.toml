@@ -1,0 +1,4 @@
+[default]
+pipeline_name = "sql_to_duckdb_pipeline"
+dataset_name  = "sql_to_duckdb_pipeline_data"
+destination   = "duckdb"
