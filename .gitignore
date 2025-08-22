@@ -1,26 +1,70 @@
-# Python / venv
-.venv/
-venv/
-**/__pycache__/
+# -----------------------------
+# Python
+# -----------------------------
 *.pyc
 *.pyo
 *.pyd
-week-01_intro-to-dlt/.venv/
+__pycache__/
+**/__pycache__/
 
-# OS/editor
+# -----------------------------
+# Virtual Environments
+# -----------------------------
+.venv/
+venv/
+**/.venv/
+env/
+ENV/
+
+# -----------------------------
+# Jupyter Notebooks
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# OS & Editor Junk
+# -----------------------------
 .DS_Store
 *.swp
 *.swo
+Thumbs.db
 
-# Notebooks
-.ipynb_checkpoints/
+# VSCode config (optional)
+.vscode/
 
-# Env & secrets
+# -----------------------------
+# Secrets & Environment Files
+# -----------------------------
 .env
 .env.*
+secrets.toml
+config.toml
+.dlt_secrets/
+*.key
+*.pem
 
-# Data/artifacts (adjust to your repo)
+# -----------------------------
+# Data & Artifacts
+# -----------------------------
+data/
+*.csv
+*.tsv
+*.json
+*.parquet
 *.db
 *.duckdb
-data/
+*.sqlite
 .dlt/
+.dlt_cache/
+.cache/
+__output__/
+
+# -----------------------------
+# Logs & Misc
+# -----------------------------
+*.log
+logs/
+*.pid
+*.bak
+*.tmp
+*.old
