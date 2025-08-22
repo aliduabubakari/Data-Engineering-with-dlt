@@ -37,9 +37,15 @@ Thumbs.db
 # -----------------------------
 .env
 .env.*
+<<<<<<< HEAD
 #secrets.toml
 #config.toml
 #.dlt_secrets/
+=======
+secrets.toml
+config.toml
+.dlt_secrets/
+>>>>>>> be4d246 (Include .dlt directory for educational use)
 *.key
 *.pem
 
