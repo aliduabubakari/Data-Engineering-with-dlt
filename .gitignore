@@ -37,9 +37,9 @@ Thumbs.db
 # -----------------------------
 .env
 .env.*
-secrets.toml
-config.toml
-.dlt_secrets/
+#secrets.toml
+#config.toml
+#.dlt_secrets/
 *.key
 *.pem
 
