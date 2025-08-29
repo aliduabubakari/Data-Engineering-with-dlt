@@ -1,0 +1,5 @@
+dlt[duckdb]
+dlt[gs]
+pandas
+streamlit
+
