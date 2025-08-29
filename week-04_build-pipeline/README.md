@@ -210,7 +210,7 @@ All using just Python and the magic of dlt ✨
 
 ## 🤝 Join the Journey
 
-Follow [Mahadi Nagassou][LinkedIn](https://www.linkedin.com/in/mahadi-nagassou-850a87254/) and connect with a growing community of learners. This repo is part of the movement to build real-world tech skills, especially in Africa 🌍. Everyone is welcome to learn, remix, and share.
+Follow [Mahadi Nagassou](https://www.linkedin.com/in/mahadi-nagassou-850a87254/) and connect with a growing community of learners. This repo is part of the movement to build real-world tech skills, especially in Africa 🌍. Everyone is welcome to learn, remix, and share.
 
 Got questions or want to contribute? Open an issue or pull request!
 
@@ -223,3 +223,4 @@ MIT License — learn freely, remix responsibly, and teach others.
 ---
 
 Let’s build future-proof data pipelines together. One script at a time.
+
