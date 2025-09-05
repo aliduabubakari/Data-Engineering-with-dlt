@@ -1,4 +1,3 @@
-````markdown
 # Week 5: How dlt Works — A Beginner-Friendly Guide
 
 Welcome to **Week 5** of the *Learning in Public with dlt* journey!  
@@ -191,7 +190,7 @@ This is the **ETL superpower** that makes modern data engineering possible.
 
 ## Join the Journey
 
-Follow [Mahadi Nagassou](https://www.linkedin.com/in/1997mahadi) to continue learning in public.
+Follow [Mahadi Nagassou](https://www.linkedin.com/in/mahadi-nagassou-850a87254/) to continue learning in public.
 Together, we’re building a step-by-step foundation for **modern data engineering** 🌍.
 
 ---
