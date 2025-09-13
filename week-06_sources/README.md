@@ -1,4 +1,4 @@
-````markdown
+
 # Week 6: Understanding Sources in dlt
 
 Welcome to **Week 6** of the *Learning in Public with dlt* journey!  
