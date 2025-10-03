@@ -1,4 +1,4 @@
-Great 🙌 I’ll merge all the explanations + Airflow user creation into a single, polished **Week 9 README.md**. Here’s the full 
+
 
 # Week 9 — State in dlt + First Steps with Apache Airflow 🚀
 
