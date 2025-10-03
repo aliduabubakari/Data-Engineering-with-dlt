@@ -289,7 +289,7 @@ week-09_state_airflow/
 │── requirements.txt              # (optional: keep only dlt[duckdb] + requests if you prefer installing Airflow separately)
 │── dags/
 │   └── spacedevs_dlt_dag.py
-│── .gitignore
+
 ```
 
 
