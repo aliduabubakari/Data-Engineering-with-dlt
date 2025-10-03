@@ -280,7 +280,7 @@ cat "$AIRFLOW_HOME/simple_auth_manager_passwords.json.generated"
 
 ---
 
-## Minimal Repo Structure (commit only what matters) 📂
+## Repo Structure 📂
 
 
 ```
